@@ -1,6 +1,10 @@
 # tintx
 A real time analytic project of ICO's running on the blockchain protocol.
 
+frontend can be viewd at https://kncogic.github.io/tintxwf.github.io/
+
+backend still in progress. Raw file added from Snipe-IT Open Source Project.
+
 WHITEPAPER / PRODUCT REQUIREMENTS DOCUMENT
 TINT X PROJECT
 
